@@ -1,4 +1,4 @@
-# demo1
+# 后台管理系统
 
 ## Project setup
 ```
@@ -10,10 +10,24 @@ npm install
 npm run serve
 ```
 
+
+
+
+
+
 ### Compiles and minifies for production
 ```
 npm run build
 ```
+
+
+
+### 登录账号密码
+```
+username:admin
+password:admin
+```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
